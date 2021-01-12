@@ -1,1 +1,2 @@
-# TelcoProject
+This source code is for implementing some classification algorithms using python, provided with step by step tutorial codes.
+For more information and a thorough tutorial on how to implement classification algorithms well, you can visit an article on medium.com with the title: Comparing Accuracy Rate of Classification Algorithms Using Python. Or you can simply go to this link: https://azizha-zeinita.medium.com/comparing-accuracy-rate-of-classification-algorithms-using-python-f25f6ebae8f. Enjoy the codes!
